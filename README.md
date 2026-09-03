@@ -1,21 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Lakshitha%20Annadurai&fontSize=42&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%26%20AI%20Researcher&descAlignY=58&descColor=94a3b8" width="100%"/>
-
-<br/>
-
-<a href="https://linkedin.com/in/lakshitha05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/lakshiii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:lakshitha.sjcet.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Machine+Learning;Deep+Learning;Healthcare+AI;Natural+Language+Processing;Data+Analytics;AI+Research;Neuromorphic+AI" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
 ## 🧬 About Me
 
 I'm a Computer Science and Engineering student with a Minor in Business Data Analytics, working at the intersection of **Data Science, Artificial Intelligence, and Healthcare Informatics**.
