@@ -208,7 +208,7 @@ Created smooth 3D geometry interpolation between two-dimensional rectangles usin
 
 | Title | Venue |
 |---|---|
-| AI-Assisted Skin Lesion Detection and Classification Using Deep Learning for Early and Accurate Diagnosis | — |
+| AI-Assisted Skin Lesion Detection and Classification Using Deep Learning for Early and Accurate Diagnosis | ICIRSEM 2026 |
 | Liver Disease Prediction Using Optimized XGBoost with SHAP Interpretability | IEEE IICAIET 2025 |
 | DeepHCM: A Deep Learning-Based Framework for Early Detection of Non-Obstructive Hypertrophic Cardiomyopathy Using Synthetic ECG and Cardiac Imaging Data | ICTTE 2025 Proceedings |
 | A Deep Learning-Based Method for Detecting Diabetic Retinopathy from Retinal Images | ICTTE 2025 Proceedings |
