@@ -138,7 +138,7 @@ Developed a deep learning framework for early detection of non-obstructive hyper
 
 `Healthcare AI` `Deep Learning` `Medical Imaging` `ECG Analysis` `Disease Detection`
 
-[View Repository](#)
+
 </details>
 
 <details>
@@ -149,7 +149,7 @@ A deep-learning-focused AI system and research project for skin lesion detection
 
 `Deep Learning` `Healthcare AI` `Computer Vision` `Medical Image Analysis` `Skin Lesion Classification`
 
-[View Repository](#)
+
 </details>
 
 <details>
@@ -164,7 +164,7 @@ Built an intelligent document Q&A assistant using LangChain, FAISS vector databa
 
 `LangChain` `FAISS` `Hugging Face` `Streamlit`
 
-[View Repository](#)
+
 </details>
 
 <details>
@@ -177,7 +177,6 @@ Built a hate speech detection model analyzing 31,962 tweets using NLP preprocess
 
 `NLP` `TF-IDF` `Logistic Regression` `EDA`
 
-[View Repository](#)
 </details>
 
 <details>
@@ -188,7 +187,6 @@ Integrated speech transcription with emotion recognition models — audio featur
 
 `Speech Processing` `SVM` `Emotion Recognition` `Multilingual`
 
-[View Repository](#)
 </details>
 
 <details>
@@ -199,7 +197,7 @@ Created smooth 3D geometry interpolation between two-dimensional rectangles usin
 
 `Computer Graphics` `Computational Geometry` `Visualization`
 
-[View Repository](#)
+
 </details>
 
 <br/>
@@ -240,20 +238,6 @@ UK Registered Design · Design No. 6488180 · Granted Dec 2025
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lakshiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=lakshiii&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="60%" />
-
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
